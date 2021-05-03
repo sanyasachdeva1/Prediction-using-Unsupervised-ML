@@ -4,7 +4,7 @@ TASK-2 : Prediction using Unsupervised ML
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 Steps- 
-1. Import the required libraires 
+1. Import the required libraries 
 2. Loading the iris dataset
 3. Printing shape, head and tail of data 
 4. Checking for null values
